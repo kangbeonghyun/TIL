@@ -49,7 +49,8 @@ A Tree is a special case of a graph. Spanning graph is obtained from a **connect
 2. Examine all adjacent nodes( visited)
 3. pick a minimum-weight edge **avoiding cycles**
 
-![prim](C:\Users\zxcvb\Desktop\prim.png)
+![prim](https://user-images.githubusercontent.com/44596480/60177127-0da2ee80-9853-11e9-87f4-c82328c86126.PNG)
+
 
 ##### Kruskal's algorithm
 
