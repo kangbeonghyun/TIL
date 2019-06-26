@@ -59,7 +59,8 @@ A Tree is a special case of a graph. Spanning graph is obtained from a **connect
 
 There are two ways(One is start from delete most weighted edge, another is start from adding minimum weight edge )
 
-![kruskal](C:\Users\zxcvb\Desktop\kruskal.png)
+![kruskal](https://user-images.githubusercontent.com/44596480/60177219-480c8b80-9853-11e9-978c-29021850bdb4.PNG)
+
 
 #### Other algorithms..
 
