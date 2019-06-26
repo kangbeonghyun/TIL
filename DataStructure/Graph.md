@@ -29,7 +29,7 @@
 
 A Tree is a special case of a graph. Spanning graph is obtained from a **connected** graph of N nodes via a **DFT or BFT** and **N nodes and N-1 Edges** with **no cycle** (spanning tree is not only one. there are able to make many spanning trees in one graph like below picture)
 
-![spanningtree](C:\Users\zxcvb\Desktop\spanning.png)
+![spanningtree](https://github.com/kangbeonghyun/TIL/issues/1#issue-460917102)
 
 ----
 
