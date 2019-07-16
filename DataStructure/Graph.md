@@ -29,7 +29,7 @@
 
 A Tree is a special case of a graph. Spanning graph is obtained from a **connected** graph of N nodes via a **DFT or BFT** and **N nodes and N-1 Edges** with **no cycle** (spanning tree is not only one. there are able to make many spanning trees in one graph like below picture)
 
-![spanningtree](C:\Users\zxcvb\Desktop\spanning.png)
+![spanningtree](https://user-images.githubusercontent.com/44596480/60176548-96208f80-9851-11e9-889c-a73a23c1e2cb.PNG)
 
 ----
 
@@ -49,7 +49,8 @@ A Tree is a special case of a graph. Spanning graph is obtained from a **connect
 2. Examine all adjacent nodes( visited)
 3. pick a minimum-weight edge **avoiding cycles**
 
-![prim](C:\Users\zxcvb\Desktop\prim.png)
+![prim](https://user-images.githubusercontent.com/44596480/60177127-0da2ee80-9853-11e9-87f4-c82328c86126.PNG)
+
 
 ##### Kruskal's algorithm
 
@@ -58,7 +59,8 @@ A Tree is a special case of a graph. Spanning graph is obtained from a **connect
 
 There are two ways(One is start from delete most weighted edge, another is start from adding minimum weight edge )
 
-![kruskal](C:\Users\zxcvb\Desktop\kruskal.png)
+![kruskal](https://user-images.githubusercontent.com/44596480/60177219-480c8b80-9853-11e9-978c-29021850bdb4.PNG)
+
 
 #### Other algorithms..
 
