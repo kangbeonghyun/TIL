@@ -15,3 +15,14 @@
   in fact, popped item remaining, we can think just cursor is moved 
 
 * Stack in C is 1-dimensional array(top= -1)
+
+----
+
+# Queue
+
+## Concept
+
+* FIFO(first in first out)
+* Data- Primitive and Complex(structure, list, multimedia)
+* Operation- (insert(enqueue),delete(dequeue), check queue empty or full)
+* Queue in C is i-dimensional array(front=back=-1)
